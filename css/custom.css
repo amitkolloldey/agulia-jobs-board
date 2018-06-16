@@ -1,0 +1,209 @@
+.bg-main {
+	background: linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../img/job-search.jpg) no-repeat center center fixed !important; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover !important;
+}
+.index-head {
+	padding: 10%;
+	color: #fff;
+	line-height: 150%;
+}
+
+.index-head > h1 {
+	font-size: 60px;
+}
+.logo-bg {
+	background-color: #00A65A !important;
+}
+
+.index-head > p {
+	font-size: 32px;
+}
+
+.index-head > p > a {
+	margin-top: 20px;
+}
+
+.latest-job {
+	line-height: 150%;
+}
+
+.latest-job > h1 {
+	font-size: 60px;
+}
+
+.candidate-img > img {
+	width: 350px;
+	height: 175px;
+}
+
+.company-img > img {
+	width: 350px;
+	height: 200px;
+}
+
+.about-text > p {
+	font-size: 17px;
+	line-height: 150%;
+}
+
+.margin-bottom-20 {
+	margin-bottom: 20px;
+}
+
+.margin-top-50 {
+	margin-top: 50px;
+}
+
+.margin-top-20 {
+	margin-top: 20px;
+}
+
+.padding-5 {
+	padding: 5%;
+}
+
+.padding-2 {
+	padding: 2%;
+}
+.bg-white {
+	background-color: #fff;
+}
+.margin-right-10 {
+	margin-right: 10px;
+}
+
+.bg-c-yellow {
+	background-color: #FFC;
+}
+
+.color-red {
+	color: red;
+}
+
+.hide-me {
+	display: none;
+}
+
+.content-wrapper {
+	background: #fff;
+}
+
+.skin-green .wrapper, .skin-green .main-sidebar, .skin-green .left-side {
+	background: #fff;
+}
+
+header.main-header {
+	background: #fff;
+	border-bottom: 1px solid #eee;
+}
+header.main-header.front-header {
+	max-height: 100%;
+}
+.skin-black .main-header .navbar .nav>li>a {
+	padding: 30px 15px;
+	font-size: 18px;
+}
+.site_logo img {
+	height: 80px;
+}
+.col-md-12.text-center.index-head {
+	padding: 20%;
+}
+.attachment-block.col-md-12 {
+	padding:  20px;
+	margin-bottom: 20px;
+}
+
+.attachment-heading a {
+	font-size: 24px;
+	display: block;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+
+span.attachment-heading {
+	display:  block;
+	font-size: 18px;
+	font-weight:  bold;
+	color: #35B2B4;
+}
+section.page_title_header {
+	background: url(../img/job-search.jpg) no-repeat center center fixed!important;
+	padding:  50px 0;
+	margin-bottom: 20px;
+}
+.page_title_header h1{
+	color: #fff;
+}
+p.login-box-msg {
+	font-size:  30px;
+	font-weight:  bold;
+	color: #35B2B4;
+}
+
+button.btn.btn-primary.btn-block.btn-flat {
+	background:  #35B2B4;
+	font-size:  16px;
+	border: navajowhite;
+}
+.skin-black .wrapper, .skin-black .main-sidebar, .skin-black .left-side{
+	background: #fff;
+}
+.small-box.link_box.padding-5 {
+	background: #35B2B4;
+}
+
+.link_box h3.text-center {
+	font-size:  24px;
+	font-weight: normal;
+	color: #fff;
+}
+
+.small-box:hover {
+	color: inherit;
+}
+
+.link_box a.small-box-footer {
+	background: #35B2B4!important;
+	padding:  10px;
+	font-size: 20px;
+}
+
+h1.text-center.margin-bottom-20 {
+	font-size:  40px;
+	margin-bottom:  50px;
+	color: #35B2B4;
+}
+
+.load_more a.btn.btn-primary {
+	font-size:  20px;
+	margin: 30px 0;
+	background:  #35B2B4;
+	border:  none;
+	padding:  10px 30px;
+	border-radius: 0;
+}
+
+.small-box.link_box {
+	border: none!important;
+	box-sizing:  af;
+	box-shadow: none;
+}
+
+.small-box.link_box {}
+
+section#statistics {
+	padding:  50px 0;
+	background: #35B2B4;
+}
+
+.link_box h3 {
+	color: #fff;
+}
+
+.link_box p {
+	color: #fff;
+}
