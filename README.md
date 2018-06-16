@@ -5,10 +5,6 @@
 
 <br>	
 
-<img src="https://i.imgur.com/Nkdvpnh.png">
-
-<br>	
-
 <img src="https://i.imgur.com/cfQ4trl.jpg">
 
 <br>	
